@@ -14,8 +14,8 @@ public class Main {
         Scanner scan = new Scanner(System.in);
 
         // seed
-        students.add(new Student("1", "Tofik"));
-        students.add(new Student("2", "Hidayat"));
+        students.add(new Student("1", "Risma"));
+        students.add(new Student("2", "Nurhayati"));
         books.add(new Book("1", "Cara 1"));
         books.add(new Book("2", "Cara 2"));
         transactions.add(new Transaction(students.get(0), books.get(0), 1));
